@@ -7,9 +7,9 @@ Todo List Android app with reminder feature. This app enables you to create, edi
 - Alarm Manager to schedule notifications for the reminders.
 - Compose Animation APIs
 ### Screenshots:
-![](https://i.imgur.com/gVFV83y.png)
-![](https://i.imgur.com/uvuPlJg.png)
-![](https://i.imgur.com/IvVESoh.png)
-![](https://i.imgur.com/MlMxjKV.png)
-![](https://i.imgur.com/gJVOYfP.png)
-![](https://imgur.com/IvVESoh)
+![](https://i.imgur.com/gVFV83yl.png)
+![](https://i.imgur.com/uvuPlJgl.png)
+![](https://i.imgur.com/IvVESohl.png)
+![](https://i.imgur.com/MlMxjKVl.png)
+![](https://i.imgur.com/gJVOYfPl.png)
+![](https://i.imgur.com/IvVESohl.png)
